@@ -1,0 +1,34 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Calculator - by Vaibhav Modi
+Date: Tue, 5 Sep 2023 15:29:32 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--CC7JxnJjivXvDeoB95H1dQdYSQKt1RfMxX3XPuyUSI----"
+
+
+------MultipartBoundary--CC7JxnJjivXvDeoB95H1dQdYSQKt1RfMxX3XPuyUSI----
+Content-Type: text/html
+Content-ID: <frame-C09F6C2CEE3579FA89E6F2A411B53063@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Calculator - by Vaibhav Modi</title>
+    <link rel=3D"icon" href=3D"https://cdn2.iconfinder.com/data/icons/ios7-=
+inspired-mac-icon-set/512/Calculator_512.png">
+</head>
+<body>
+    <div class=3D"Calculator">
+        <input type=3D"text" placeholder=3D"0" fdprocessedid=3D"g8dmzn">
+    </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--CC7JxnJjivXvDeoB95H1dQdYSQKt1RfMxX3XPuyUSI------
